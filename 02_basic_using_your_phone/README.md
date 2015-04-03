@@ -14,7 +14,7 @@ You can upload the video after the meetup is over by uploading to your computer 
 
 2. Login to your Google Account
 
-	![Sign In](02_sign_in.png)
+	![Sign In](images/02_sign_in.png)
 	![Select Channel](images/03_select_channel.png)
 
 2. Record video of speaker / projector slides.
@@ -33,7 +33,7 @@ You can upload the video after the meetup is over by uploading to your computer 
 
 5. ***Profit!***
 
-	![Uploaded](11_profit.png)
+	![Uploaded](images/11_profit.png)
 
 ## Things to Note
 
