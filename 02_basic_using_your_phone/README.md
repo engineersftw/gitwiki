@@ -10,26 +10,26 @@ You can upload the video after the meetup is over by uploading to your computer 
 
 1. Download the [YouTube Capture app](https://www.youtube.com/capture). *(Sorry, iOS only)*
 
-	![App Store](01_app_store.png)
+	![App Store](images/01_app_store.png)
 
 2. Login to your Google Account
 
 	![Sign In](02_sign_in.png)
-	![Select Channel](03_select_channel.png)
+	![Select Channel](images/03_select_channel.png)
 
 2. Record video of speaker / projector slides.
 
-	![Tap to record](04_tap_to_record.png)
-	![Continue to record](05_continue_to_record.png)
+	![Tap to record](images/04_tap_to_record.png)
+	![Continue to record](images/05_continue_to_record.png)
 	<br>*You can stop and record multiple videos.*
 
 3. Trim or edit the video.
 
-	![Trim and Edit the video](06_tedit_trim.png)
+	![Trim and Edit the video](images/06_tedit_trim.png)
 
 4. Upload the video from the phone. Use a wifi connection if possible because its going to upload alot of data.
 
-	![Upload the video from the phone](07_upload.png)
+	![Upload the video from the phone](images/07_upload.png)
 
 5. ***Profit!***
 
@@ -37,13 +37,13 @@ You can upload the video after the meetup is over by uploading to your computer 
 
 ## Things to Note
 
-![Works on iPhone 4](08_works_on_iphone4.jpg)
+![Works on iPhone 4](images/08_works_on_iphone4.jpg)
 <br/>*Works on iPhone 4*
 
-![Use a tripod](09_use_a_tripod.jpg)
+![Use a tripod](images/09_use_a_tripod.jpg)
 <br/>*Use a tripod & a phone mount. Phone mount costs $3 at Funan.*
 
-![Uploading from the phone may take some time.](10_uploading_from_the_phone.jpg)
+![Uploading from the phone may take some time.](images/10_uploading_from_the_phone.jpg)
 <br/>*Uploading from the phone might take some time.<br/>Extend the sleep time to the longest, because when the phone goes to sleep, the upload will stop.*
 
 ## Example Footages
