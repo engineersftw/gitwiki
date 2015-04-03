@@ -14,7 +14,7 @@
 
 	![Create Channel form](./04_new_channel_form.png)
 
-5. You will need to verify your account if you wish to do upload clips more than 15 minutes. You will see the link when you upload your first video.
+5. You will need to verify your account if you wish to upload clips of more than 15 minutes. You will see the link when you upload your first video.
 
 	![Upload form](./05_upload_form.png)
 	![Upload form](./06_account_verification.png)
