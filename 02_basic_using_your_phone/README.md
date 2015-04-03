@@ -4,7 +4,7 @@
 
 The easiest way of capturing meetup videos is to with your phone's camera. The image quality is good and the sound quality can be pretty decent. Phones are build to capture audio surprisingly well. This is probably also the cheapest way to do so. 
 
-You can upload the video after the meetup is over by uploading to your computer and the use the YouTube upload page to upload the file. Fortunately there is an app that can let you record and upload to your YouTube Channel directly from the phone, the [YouTube Capture](https://www.youtube.com/capture) app. Unfortunately, it is an iOS only app.
+You can upload the video after the meetup is over by uploading to your computer and use the [YouTube upload page](https://www.youtube.com/upload) to upload the file. Fortunately there is an app that can let you record and upload to your YouTube Channel directly from the phone, the [YouTube Capture](https://www.youtube.com/capture) app. Unfortunately, it is an iOS only app.
 
 ## Steps
 
