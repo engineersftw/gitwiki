@@ -44,9 +44,20 @@ One such device is the [Avermedia Live Gamer Portable](http://gamerzone.avermedi
 
 7. ***Profit!***
 
+## Costs
+
+- Avermedia Live Gamer Portable - SGD$219
+- VGA Spltter - ~SGD$20
+- HDMI-to-VGA Converter - ~SGD$40
+- VGA Cable - ~SGD$20
+
+**Total:** ~SGD$299
+
 ## Post-Production
 
 The video feed from the external camera and the screen grabber is now ready to be mixed together in post-production. We usually use [Apple iMovie](https://www.apple.com/sg/mac/imovie/) to do the post production (its free!). We would use the presentation screen as the main panel and the camera feed is set in a corner (picture-in-picture arrangement).
+
+![](images/imovie.png)
 
 You can also use [Final Cut Pro X](https://www.apple.com/sg/final-cut-pro/) or [Adobe Premiere Pro CC](http://www.adobe.com/sea/products/premiere.html) (both are paid software).
 
