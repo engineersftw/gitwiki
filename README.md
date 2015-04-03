@@ -3,7 +3,7 @@
 ## Pre-requisites
 
 * [YouTube Account](http://youtube.com)
-* [YouTube Channel](./create_youtube_channel.md)
+* [YouTube Channel](./01_create_youtube_channel/)
 
 ## Different Recording Options
 
