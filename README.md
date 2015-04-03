@@ -2,8 +2,8 @@
 
 ## Pre-requisites
 
-* [YouTube Account](http://youtube.com)
-* [YouTube Channel](./01_create_youtube_channel/)
+* Create a [YouTube Account](http://youtube.com) using your Google Account.
+* Create a [YouTube Channel](./01_create_youtube_channel/).
 
 ## Different Recording Options
 
