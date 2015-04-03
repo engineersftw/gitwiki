@@ -1,3 +1,9 @@
-# Advanced - 1 camera + 1 screen grabber + editing
+# Advanced - Camera and Screen Grabber
+
+## Introduction
+
+
+
+## Steps
 
 1. 
