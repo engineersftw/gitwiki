@@ -48,7 +48,7 @@ You can upload the video after the meetup is over by uploading to your computer 
 
 ## Example Footages
 
-[![](http://img.youtube.com/vi/cW0ZKu6Ykb8/0.jpg)](http://www.youtube.com/watch?v=cW0ZKu6Ykb8)<br/>*This was shot hand-held style, without a tripod. Notice the footage is very shaky. Notice the video faded in and out somewhere in the middle. This because i accidentally covered the microphone on the phone. :(*
+[![](http://img.youtube.com/vi/cW0ZKu6Ykb8/0.jpg)](http://www.youtube.com/watch?v=cW0ZKu6Ykb8)<br/>*This was shot hand-held style, without a tripod (thus the shakiness). Notice the audio faded in and out somewhere in the middle. This because i accidentally covered the microphone on the phone. :(*
 
 [![](http://img.youtube.com/vi/Z6A-R_zSnjo/0.jpg)](http://www.youtube.com/watch?v=Z6A-R_zSnjo)<br/>*This is shot with a tripod. But since I am recording the speaker only, viewers might find it hard to follow. So maybe a better way is to just videograph the screen?*
 
