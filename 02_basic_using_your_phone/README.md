@@ -12,7 +12,7 @@ You can upload the video after the meetup is over by uploading to your computer 
 
 	![App Store](images/01_app_store.png)
 
-2. Login to your Google Account
+2. Login to your Google Account. Select your channel.
 
 	![Sign In](images/02_sign_in.png)
 	![Select Channel](images/03_select_channel.png)
@@ -48,7 +48,7 @@ You can upload the video after the meetup is over by uploading to your computer 
 
 ## Example Footages
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cW0ZKu6Ykb8" frameborder="0" allowfullscreen></iframe><br/>*This was shot hand-held style, without a tripod. Notice the footage is very shaky. Notice the video faded in and out somewhere in the middle. This because i accidentally covered the microphone on the phone. :(*
+[[embed url=https://www.youtube.com/embed/cW0ZKu6Ykb8]]<br/>*This was shot hand-held style, without a tripod. Notice the footage is very shaky. Notice the video faded in and out somewhere in the middle. This because i accidentally covered the microphone on the phone. :(*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z6A-R_zSnjo" frameborder="0" allowfullscreen></iframe><br/>*This is shot with a tripod. But since I am recording the speaker only, viewers might find it hard to follow. So maybe a better way is to just videograph the screen?*
 
