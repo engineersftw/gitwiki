@@ -7,9 +7,8 @@
 
 ## Different Recording Options
 
-- [Basic - Using your phone](./02_basic_using_your_phone/)
-- [Basic - Using 1 camera](./03_basic_using_1_camera/)
-- [Basic - Record Screen Capture](./04_basic_record_screen_capture/)
-- [Intermediate - 1 camera + Editing](./05_intermediate_1_camera_+_editing/)
-- [Advanced - 1 camera + 1 screen grabber + editing](./06_advanced_1_camera_1_screen_grabber/)
-- [Advanced - 1 camera + 1 screen grabber + software video mixer](./07_advaced_with_software_video_mixer/)
+- [Basic - Using your phone](./02_using_your_phone/)
+- [Intermediate - Using 1 camera](./03_using_1_camera/)
+- [Intermediate - Record Screen Capture](./04_record_screen_capture/)
+- [Advanced - 1 camera + 1 screen grabber + editing](./05_camera_and_screen_grabber/)
+- [Advanced - 1 camera + 1 screen grabber + software video mixer](./06_with_software_video_mixer/)

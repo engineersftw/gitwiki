@@ -1,8 +1,8 @@
-# Basic - Record Screen Capture
+# Intermediate - Record Screen Capture
 
 ## Introduction
 
-When the speaker is using a Mac, you can easily record their screen activities. This way, you get very sharp and high quality recording.
+When the speaker is using a Mac, you can easily record their screen activities. This way, you get very sharp and high quality recording. This option is rather intrusive. So only do this if you meet the speaker earlier and make the arrangements before the start of his talk.
 
 ## Steps
 1. Start QuickTime Player

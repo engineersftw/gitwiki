@@ -1,4 +1,4 @@
-# Basic - Using 1 camera
+# Intermediate - Using 1 camera
 
 ## Introduction
 
