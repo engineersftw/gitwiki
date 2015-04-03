@@ -52,4 +52,6 @@ You can upload the video after the meetup is over by uploading to your computer 
 
 [![](http://img.youtube.com/vi/Z6A-R_zSnjo/0.jpg)](http://www.youtube.com/watch?v=Z6A-R_zSnjo)<br/>*This is shot with a tripod. But since I am recording the speaker only, viewers might find it hard to follow. So maybe a better way is to just videograph the screen?*
 
+[![](http://img.youtube.com/vi/8uRfwCtEBgA/0.jpg)](http://www.youtube.com/watch?v= 8uRfwCtEBgA)<br/>*Shot video of only the screen. Much nicer result.*
+
 [![](http://img.youtube.com/vi/AzGIy1n88AY/0.jpg)](http://www.youtube.com/watch?v=AzGIy1n88AY)<br/>*Example of something shot using the YouTube Capture app on an iPad mini. No tripod was used, but the iPad cover I used was able to prop up the iPad mini.*
