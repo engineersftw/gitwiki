@@ -16,6 +16,14 @@ The software video mixer is called [Xsplit Broadcaster](https://www.xsplit.com/p
 
 [![](http://img.youtube.com/vi/ZJ5Rey9E3uI/0.jpg)](http://www.youtube.com/watch?v=ZJ5Rey9E3uI)<br/>*Video footage of the actual video setup courtesy of Stephan February.*
 
+## Things to note
+
+- Check your audio source.
+- Make sure you didn't mute the microphone.
+- Setup the scenes before hand.
+- Background & splash images are nice.
+- Shortcut keys do not always work as advertised. :(
+
 ## Example Footages
 
 [![](http://img.youtube.com/vi/k99HSHQDsi4/0.jpg)](http://www.youtube.com/watch?v=k99HSHQDsi4)
