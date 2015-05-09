@@ -19,5 +19,7 @@
 5. Recipient receives the email and approves the add.
 
 	![YouTube Settings](./images/add_manager/05_become_manager.png)
+	![YouTube Settings](./images/add_manager/06_approve_manager_ad.png)
+	![YouTube Settings](./images/add_manager/07_manage_page.png)
 
 6. They should be able to see the channel settings now. 
