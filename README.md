@@ -4,6 +4,7 @@
 
 * Create a [YouTube Account](http://youtube.com) using your Google Account.
 * Create a [YouTube Channel](./01_create_youtube_channel/).
+* [Add other managers](./01_create_youtube_channel/add_managers.md) to your YouTube Channel (optional)
 
 ## Different Recording Options
 
