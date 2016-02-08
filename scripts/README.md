@@ -13,4 +13,6 @@
 $ ./multinorm.sh ./<folder_name>
 ```
 
+	**Important:** Please replace spaces with underscore in your folder name and file names.(eg. `my_videos` instead of `my videos` and `video_file.mov` instead of `video file.mov`).
+
 - ***Attribution***: Based on [Sayanee Basu's](https://github.com/sayanee) [`norm`](https://github.com/sayanee/build-podcast/blob/master/automation/norm).
