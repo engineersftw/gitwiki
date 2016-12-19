@@ -1,4 +1,8 @@
 #!/bin/bash
+
+# Ensure we fail fast if there is a problem.
+set -eo pipefail
+
 SOURCE=$1
 echo "Looking inside $SOURCE now..."
 
@@ -29,5 +33,4 @@ do
   rm "$working_sourcefile" "$working_filename-temp.mp4" "$working_filename-audio.wav" "$working_filename-leveled.wav" "$working_filename-temp.wav"
 
   mv "$working_filename-norm.mp4" "$destination_folder"
-  rm -rf "$working_folder"
 done
