@@ -16,13 +16,9 @@
 
 ## Our Current Setup
 
-### Video
-
 [![](https://i.ytimg.com/vi/HexBPFWE_3I/hqdefault.jpg)](https://engineers.sg/v/1237)
 
-### Slides
-
-[![The Magic Behind Engineers.SG](https://speakerd.s3.amazonaws.com/presentations/4d8ede1a49e2420db1c2622df42b3849/slide_0.jpg?1477713073)](https://speakerdeck.com/miccheng/the-magic-behind-engineers-dot-sg)
+[Video](https://engineers.sg/v/1237) and [slides on SpeakerDeck](https://speakerdeck.com/miccheng/the-magic-behind-engineers-dot-sg)
 
 ## Checklist of stuff to bring
 
