@@ -8,7 +8,7 @@ While recording the meetup videos on 1 camera captures the speaker's voice and p
 
 So an external screen grabber is needed to intercept and record the presentation screen video before sending the video stream on to the projector. This is done with a hardware screen grabber.
 
-One such device is the [Avermedia Live Gamer Portable](http://gamerzone.avermedia.com//game_capture/live_gamer_portable) ($219 at Sim Lim Square).
+One such device is the [Avermedia Live Gamer Portable](http://gamerzone.avermedia.com/gaming/product/game_capture/live_gamer_portable).
 
 ![](images/C875_1.png)
 
@@ -16,21 +16,22 @@ One such device is the [Avermedia Live Gamer Portable](http://gamerzone.avermedi
 
 ## Steps
 
-1. Presenter's laptop should use VGA output.
+1. Presenter's laptop should use HDMI output.
 
-	![](images/01_vga_out.jpg)
+	![](images/01_hdmi_output.jpg)
+	
+	You should use an adapter if the laptop doesn't support HDMI output:
+	
+	![](images/02_minidp_to_htmi_output.jpg)<br>
+	Here's a Mini-Displayport to HDMI adapter.
 
-2. VGA signal is sent to a VGA splitter, that sends 1 signal to the projector. Another is sent to the screen grabber.
+2. HDMI signal is sent to a HDMI splitter, that sends 1 signal to the projector. Another is sent to the screen grabber.
 
-	![](images/02_vga_splitter.jpg)
+	![](images/03_hdmi_splitter_annotated.png)
 
-3. The VGA feed for the screen grabber is first sent to a VGA-to-HDMI converter.
+3. The HDMI signal is sent to the Avermedia Live Gamer Portable.
 
-	![](images/03_vga_to_hdmi_converter.jpg)
-
-4. The resulting HDMI signal is sent to the Avermedia Live Gamer Portable.
-
-	![](images/04_hdmi_to_avermedia_lgp.jpg)
+	![](images/04_avermedia_lgp.jpg)
 
 5. The Avermedia Live Gamer Portable can record the video into an SD card in PC-Free mode. But from past experience, its more stable to use a PC to record that feed.
 
@@ -46,10 +47,9 @@ One such device is the [Avermedia Live Gamer Portable](http://gamerzone.avermedi
 
 ## Costs
 
-- Avermedia Live Gamer Portable - SGD$219
-- VGA Spltter - ~SGD$20
-- HDMI-to-VGA Converter - ~SGD$40
-- VGA Cable - ~SGD$20
+- [Avermedia Live Gamer Portable](https://www.amazon.com/AVerMedia-Recording-Definition-Streaming-C875/dp/B00B2IZ3B0/) - SGD$219.00
+- [View HD HDMI Spltter](https://www.amazon.com/ViewHD-Powered-Splitter-1080P-Model/dp/B004F9LVXC/) - SGD$50
+- HDMI cables (5m x 2) - SGD$15 each
 
 **Total:** ~SGD$299
 
