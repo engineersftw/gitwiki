@@ -8,13 +8,13 @@ This option does not require any post-production. The video is mixed live during
 
 ## The Software Video Mixer
 
-The software video mixer we use is called [Xsplit Broadcaster](https://www.xsplit.com/products/broadcaster?lang=en). This software requires a monthly subscription of [US$4.95](https://www.xsplit.com/buy/index?pp=WWW_NAVBAR&lang=en).
+The software video mixer we use is called [OBS Studio](https://obsproject.com). This software is free and open source. And it runs on Windows, Mac and Linux.
 
-[![](http://img.youtube.com/vi/mV8EHl88wvQ/0.jpg)](http://www.youtube.com/watch?v=mV8EHl88wvQ)
+[![](https://obsproject.com/assets/images/studio_mode.png)](https://obsproject.com)
 
 ## The Setup
 
-[![](http://img.youtube.com/vi/ZJ5Rey9E3uI/0.jpg)](http://www.youtube.com/watch?v=ZJ5Rey9E3uI)<br/>*Video footage of the actual video setup courtesy of Stephan February.*
+[![](https://i.ytimg.com/vi/KVbnX0kicyk/0.jpg)](https://www.youtube.com/watch?v=KVbnX0kicyk&list=PLECEw2eFfW7iLdETDRhVcGcX4HXGLLCIK&index=1)
 
 ## Things to note
 
@@ -26,14 +26,14 @@ The software video mixer we use is called [Xsplit Broadcaster](https://www.xspli
 
 ## Example Footages
 
-[![](http://img.youtube.com/vi/k99HSHQDsi4/0.jpg)](http://www.youtube.com/watch?v=k99HSHQDsi4)
+[![](https://i.ytimg.com/vi/Zwu626TtpLU/0.jpg)](https://youtu.be/Zwu626TtpLU)
 
-[![](http://img.youtube.com/vi/2zwnH-k_oDo/0.jpg)](http://www.youtube.com/watch?v=2zwnH-k_oDo)
+[![](https://i.ytimg.com/vi/EHWRisQ9IB8/0.jpg)](https://youtu.be/EHWRisQ9IB8)
 
 ## Alternatives
 
 - Free
-	- [Open Broadcaster Software](https://obsproject.com/)
 	- [Wirecast for YouTube](http://www.telestream.net/wirecastforyoutube/cb-landing.htm)
 - Paid
+	- [XSplit](https://www.xsplit.com)
 	- [Wirecast](http://www.telestream.net/wirecast/overview.htm)
