@@ -1,5 +1,11 @@
 # Engineers.SG Wiki Guide #
 
+## The Magic Behind Engineers.SG
+
+[![](https://i.ytimg.com/vi/HexBPFWE_3I/hqdefault.jpg)](https://engineers.sg/v/1237)
+
+[Video](https://engineers.sg/v/1237) and [slides on SpeakerDeck](https://speakerdeck.com/miccheng/the-magic-behind-engineers-dot-sg)
+
 ## Pre-requisites
 
 * Create a [YouTube Account](http://youtube.com) using your Google Account.
@@ -16,9 +22,7 @@
 
 ## Our Current Setup
 
-[![](https://i.ytimg.com/vi/HexBPFWE_3I/hqdefault.jpg)](https://engineers.sg/v/1237)
-
-[Video](https://engineers.sg/v/1237) and [slides on SpeakerDeck](https://speakerdeck.com/miccheng/the-magic-behind-engineers-dot-sg)
+- [Detailed description of our current setup](./07_current_setup)
 
 ## Checklist of stuff to bring
 
