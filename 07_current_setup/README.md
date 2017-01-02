@@ -61,7 +61,7 @@ The Blue Icicle has a USB interface.
 
 ## Software
 
-ALl the 3 input sources are connected to a laptop via USB. We use a software video mixer to integrate all these 3 sources. The output from the software video mixer is one single video file that is pre-edited. This video file is then uploaded to YouTube.
+All the 3 input sources are connected to a laptop via USB. We use a software video mixer to integrate all these 3 sources. The output from the software video mixer is one single video file that is pre-edited. This video file is then uploaded to YouTube.
 
 The software video mixer we use is called [OBS Studio](https://obsproject.com). This software is free and open source. And it runs on Windows, Mac and Linux.
 
