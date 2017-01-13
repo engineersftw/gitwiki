@@ -1,3 +1,14 @@
+# Read First!
+
+#### [For Mac Users] Install the following
+Make sure you have brew installed on your mac first! Go to [http://brew.sh](http://brew.sh/) and follow the instructions there to install brew on your mac.
+
+- Install **sox** by running ``brew install sox`` on your terminal
+
+- Install **ffmpeg** by running ``brew install ffmpeg``on your terminal
+
+Without these 2, **you will not be able to run** some of the scripts in this repository. In particular, ``multinorm.sh``
+
 # Scripts we use
 
 ## 1. `multinorm.sh` - audio normalization of video files
