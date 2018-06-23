@@ -1,5 +1,11 @@
 # Engineers.SG Recording Unit - Setup Guide Book
 
+## Visual Guide
+
+![Visual Guide](./engineersSG_setupGuide.png)
+
+*Courtesy of Dona Banerjee ([@DonaBanerjee](https://github.com/DonaBanerjee))*
+
 ## Packing List
 
 The recording unit's suitcase should consist of the following items:
