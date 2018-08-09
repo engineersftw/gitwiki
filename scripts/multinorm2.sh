@@ -1,11 +1,11 @@
 #!/bin/bash
 
-check_dependencies() {
+check_if_dependency_exists() {
   command_line_program=$1
   command -v $command_line_program >/dev/null 2>&1 || { echo >&2 "[ERROR] Please install $command_line_program first (see README.md)"; exit 1; }
 }
-check_dependencies ffmpeg
-check_dependencies sox
+check_if_dependency_exists ffmpeg
+check_if_dependency_exists sox
 
 SOURCE=$1
 echo "Looking inside $SOURCE now..."
