@@ -4,4 +4,4 @@
 
 # Usage: trimvideo.sh <src> 02:01:15 <dst>
 
-ffmpeg -i $1 -vcodec copy -acodec copy -ss 00:00:00 -t $2 $3
+ffmpeg -ss 00:00:00 -t $2 -i $1 -vcodec copy -acodec copy $3
