@@ -7,7 +7,8 @@
 
 3. Go to your [account page](https://www.youtube.com/account).
 
-	<img src="./images/02_account_settings.png" width="400">
+	![Account settings](images/02_account_settings.png)
+
 	![Account page](images/03_create_new_channel.png)
 
 4. Click on "Create Channel". Follow through. This will create your Google Plus Page. Feel free to update your avatar as well.
