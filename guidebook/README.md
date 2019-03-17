@@ -4,31 +4,29 @@
 
 The recording unit's suitcase should consist of the following items:
 
-- Laptop + charger.
-- Bag of HDMI cables (usually 2 cables).
-- HDMI Adapters.
-	- VGA to HDMI.
-	- Display Port to HDMI.
-	- Mini Display Port to HDMI.
-	- USB-C to HDMI.
-	- HDMI to VGA.
-- Bag of video capture equipment.
-	- Logitech Webcam.
-	- USB extension cable.
-	- Sony Handycam (backup camera).
-	- Charger for backup camera.
-	- Universal power plug adapter.
-- Bag of Audio gear.
-	- Wireless Lapel microphone (receiver).
-	- Spare batteries.
-- Bag with Equipment Organizer (blue platform).
-	- HDMI splitter + power adapter.
-	- Screen capture device (Avermedia Live Gamer Portable) + mini-USB cable (green dot).
-	- Audio interface (Focusrite SCarlett Solo) + USB cable (blue dot).
-	- Wireless microphone receiver + micro-USB cable + charger.
-- 2 camera stands.
+- Laptop + charger
+- HDMI cables (usually 2 cables)
+- HDMI Adapters:
+	- VGA to HDMI (a USB cable is attached)
+	- Display Port to HDMI
+	- Mini Display Port to HDMI
+	- USB-C to HDMI
+	- HDMI to VGA
+- Video recording equipment:
+	- Logitech Webcam (brown colored dot)
+	- USB extension cable for the webcam (optional)
+	- Sony Handycam + charger (backup camera)
+- Audio recording gear:
+	- Wireless lavalier microphone (receiver)
+	- Spare batteries
+- Equipment Organizer (blue platform):
+	- HDMI splitter + power adapter
+	- Screen capture device (Avermedia Live Gamer Portable) + mini-USB cable (green colored dot)
+	- Audio interface (Focusrite Scarlett Solo) + red USB cable (blue colored dot)
+	- Wireless microphone receiver + micro-USB cable + charger
+- 2 camera stands:
 	- Usually 1 tripod (for webcam) and 1 monopod (for the backup camera).
-- Power Strip.
+- Power Strip
 
 ## Visual Guide
 
@@ -66,6 +64,9 @@ The recording unit's suitcase should consist of the following items:
 	- Ensure that you are getting a good audio feed from the wireless lapel microphone (green audio level bar should hover around 50-80% when presenter is speaking).
 10. Try a test recording & verify that you can produce the video file.
 
+### Schematic (normal meetup recording)
+
+![Meetup recording](../how_we_do_it/meetup_flow_diagram.png)
 
 ## Start Recording
 
@@ -106,11 +107,11 @@ Remember to click on 'Start Recording" again before each speaker starts.
 
 1. If the screen freezes (doesn't show the presenter's screen or shows black screen).
 	
-	- **Option A: Capture buffer needs to be reset**
+	- **Possibility A: Capture buffer needs to be reset**
 		1. Double-click on the "Screen Capture" source.
 		2. Click on "Deactivate" and "Activate" again.
 
-	- **Option B: HDMI Splitter has signal issues**
+	- **Possibility B: HDMI Splitter has signal issues**
 		1. Pull out all the HDMI cables connected to the splitter.
 		2. Pull out the power cable.
 		3. Reconnect the power cable.
@@ -120,23 +121,24 @@ Remember to click on 'Start Recording" again before each speaker starts.
 			3. Projector.
 		4. Make sure you see signal light (red LED lights up) in all the HDMI connections.
 
-	- **Option C: Needs to hard reset on screen capture tool**
+	- **Possibility C: Needs to hard reset on screen capture tool**
 		- If you don't see that, try to pull out and plug in the screen capture USB cable.
 		- This might require you to stop recording and restart OBS.
 
-	- **Option D: Something else has gone wrong - just restart OBS**
+	- **Possibility D: Something else has gone wrong - just restart OBS**
 		- Restart OBS Studio.
+		- Restart the laptop.
 
 2. If the audio is suddenly off.
 
-	- **Option A: Cables may have accidentally got disconnected**
+	- **Possibility A: Cables may have accidentally got disconnected**
 		- Check that the cables are attached okay.
 		- You can try to pull out and reconnect the USB cable.
 
-	- **Option B: Speaker accidentally muted the microphone**
+	- **Possibility B: Speaker accidentally muted the microphone**
 		- Ensure that the speaker did not accidentally turn off the or mute the wireless microphone.
 		- You can usually unmute the mic from the receiver.
 
-	- **Option C: Transmitter pack is out of batteries**
+	- **Possibility C: Transmitter pack is out of batteries**
 		- Make sure there is enough battery in the audio transmitter.
 		- There should be replacement batteries in the set.
