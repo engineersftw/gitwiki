@@ -1,11 +1,5 @@
 # Engineers.SG Recording Unit - Setup Guide Book
 
-## Visual Guide
-
-![Visual Guide](./engineersSG_setupGuide.png)
-
-*Courtesy of Dona Banerjee ([@DonaBanerjee](https://github.com/DonaBanerjee))*
-
 ## Packing List
 
 The recording unit's suitcase should consist of the following items:
@@ -35,6 +29,12 @@ The recording unit's suitcase should consist of the following items:
 - 2 camera stands.
 	- Usually 1 tripod (for webcam) and 1 monopod (for the backup camera).
 - Power Strip.
+
+## Visual Guide
+
+![Visual Guide](./engineersSG_setupGuide.png)
+
+*Courtesy of Dona Banerjee ([@DonaBanerjee](https://github.com/DonaBanerjee))*
 
 ## Setup Procedure
 

@@ -6,8 +6,8 @@
 	- [OBS Studio - Software Configuration](./obs)
 	- [Some helpful scripts](./scripts)
 - [Volunteers Guidebook](./guidebook/README.md) - step by step guide for volunteers
-	- [Visual Guide](./guidebook/README.md#visual-guide)
 	- [Packing List](./guidebook/README.md#packing-list)
+	- [Visual Guide](./guidebook/README.md#visual-guide)
 	- [Setup Procedure](./guidebook/README.md#setup-procedure)
 	- [Things to note when start Recording](./guidebook/README.md#start-recording)
 	- [Troubleshooting](./guidebook/README.md#troubleshooting)
