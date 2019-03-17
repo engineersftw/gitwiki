@@ -56,3 +56,7 @@ Do email us at **bookings@engineers.sg** to reserve a slot.
 Join our [Facebook Group](https://www.facebook.com/groups/1070735369629915/) to be informed about our upcoming volunteer training.
 
 We would need all our volunteers to undergo at least 1 training session with us before volunteering with recording meetups.
+
+## Getting your event listed in our events calendar
+
+We rely heavily on Meetup.com's API. So as long as your event is tagged as `Singapore` and `technology`, we should be able to fetch the event details and have them on our [website](https://engineers.sg/events) and [WeBuild Events API](https://engineers.sg/api/events).

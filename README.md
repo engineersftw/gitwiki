@@ -15,7 +15,7 @@
 	- [For recording meetups](./engage_esg/README.md#for-recording-meetups)
 	- [For recording conferences](./engage_esg/README.md#for-recording-conferences)
 	- [Becoming a volunteer](./engage_esg/README.md#becoming-a-volunteer)
-- Getting your event listed in our events calendar
+- [Getting your event listed in our events calendar](./engage_esg/README.md#getting-your-event-listed-in-our-events-calendar)
 
 ## Other resources
 
