@@ -11,9 +11,10 @@
 	- [Setup Procedure](./guidebook/README.md#setup-procedure)
 	- [Things to note when start Recording](./guidebook/README.md#start-recording)
 	- [Troubleshooting](./guidebook/README.md#troubleshooting)
-- Engaging Engineers.SG for your:
-	- Meetup
-	- Conference
+- [Engaging Engineers.SG](./engage_esg/README.md):
+	- [For recording meetups](./engage_esg/README.md#for-recording-meetups)
+	- [For recording conferences](./engage_esg/README.md#for-recording-conferences)
+	- [Becoming a volunteer](./engage_esg/README.md#becoming-a-volunteer)
 - Getting your event listed in our events calendar
 
 ## Other resources
@@ -27,5 +28,3 @@
 	- [Advanced - Camera and Screen Grabber](./05_camera_and_screen_grabber/)
 	- [Advanced - With Software Video Mixer](./06_with_software_video_mixer/)
 	- [Detailed description of our previous setup (2016)](./07_setup_2016)
-
-
