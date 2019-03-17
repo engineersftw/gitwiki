@@ -1,4 +1,4 @@
-# Our Current Setup
+# Our Setup (up till 2016)
 
 Here's a overview of the different components of our recording system:
 
