@@ -62,4 +62,10 @@ As at 2018, this is the standard gear found in our recording sets
 
 ## Schematics
 
-![Schematics](./hardware_flow_diagram.png)
+### Normal Meetup Setup
+
+![Schematics](./meetup_flow_diagram.png)
+
+### Typical Conference Setup
+
+![Schematics](./conference_flow_diagram.png)
