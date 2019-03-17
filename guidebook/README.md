@@ -104,7 +104,7 @@ Remember to click on 'Start Recording" again before each speaker starts.
 
 ## Troubleshooting
 
-1. If the screen freezes.
+1. If the screen freezes (doesn't show the presenter's screen or shows black screen).
 	
 	- **Option A: Capture buffer needs to be reset**
 		1. Double-click on the "Screen Capture" source.

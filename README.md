@@ -2,8 +2,12 @@
 
 ## Main Guides
 
-- [How we do our recording](./how_we_do_it/README.md)
-- [Volunteers Guidebook](./guidebook/README.md)
+- [How we do our recording](./how_we_do_it/README.md) - overview of the hardware and software we use
+- [Volunteers Guidebook](./guidebook/README.md) - step by step guide for volunteers
+	- Visual Guide
+	- Packing List
+	- Setup Procedure
+	- Things to note when start Recording
 - Engaging Engineers.SG for your:
 	- Meetup
 	- Conference
