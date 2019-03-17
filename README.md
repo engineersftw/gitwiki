@@ -8,8 +8,8 @@
 	- Meetup
 	- Conference
 - Getting your event listed in our events calendar
+- [OBS Studio - Software Configuration](./obs)
 - [Some helpful scripts](./scripts)
-- [Open Broadcaster Software (OBS) Studio](./obs)
 
 ## Other resources
 
