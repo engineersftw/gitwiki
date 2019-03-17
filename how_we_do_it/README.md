@@ -54,11 +54,11 @@ As at 2018, this is the standard gear found in our recording sets
 
 3. **[FFmpeg](https://www.ffmpeg.org)**
 
-	We use this as a command line tool to convert videos and do other operations like splitting and joining. This as a dependency in our [scripts](../scripts/).
+	We use this as a command line tool to convert videos and do other operations like splitting and joining. This is a dependency in our [scripts](../scripts/).
 
 4. **[SoX - Sound eXchange](http://sox.sourceforge.net)**
 
-	We use this tool to normalize and compress the audio levels in our recorded video fies. This as a dependency in our [scripts](../scripts/).
+	We use this tool to normalize and compress the audio levels in our recorded video fies. This is a dependency in our [scripts](../scripts/).
 
 ## Schematics
 
