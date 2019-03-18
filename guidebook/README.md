@@ -142,3 +142,25 @@ Remember to click on 'Start Recording" again before each speaker starts.
 	- **Possibility C: Transmitter pack is out of batteries**
 		- Make sure there is enough battery in the audio transmitter.
 		- There should be replacement batteries in the set.
+
+## Uploading Videos to Engineers.SG
+
+### Option 1 - Small files
+
+If your recorded MP4 files are below 1.5GB each, you may upload using the volunteers upload site: [http://upload.engineers.sg](http://upload.engineers.sg)
+
+The login credentials will be shared with you during the volunteers training session.
+
+After uploading, the video should appear on the website and YouTube Channel within 1 hour.
+
+### Option 2 - Large files
+
+If your recorded MP4 files are >= 1.5GB each, please upload the file to us via this Dropbox upload link: [http://bit.ly/esg-upload](http://bit.ly/esg-upload)
+
+And inform us through the Telegram chat or via email to admin@engineers.sg.Do give us some time to process and upload the video. We will inform you when the videos are available on our website and YouTube Channel.
+
+### Option 3 - Manager access to YouTube Channel
+
+In some situations, we can grant you Manager access to the YouTube Channel so that you can upload the file directly to our YouTube Channel.
+
+When uploading files for meetups, do remember to add the video file to the ["Meetup Videos"](https://www.youtube.com/playlist?list=PLECEw2eFfW7hYMucZmsrryV_9nIc485P1) playlist.

@@ -11,6 +11,7 @@
 	- [Setup Procedure](./guidebook/README.md#setup-procedure)
 	- [Things to note when start Recording](./guidebook/README.md#start-recording)
 	- [Troubleshooting](./guidebook/README.md#troubleshooting)
+	- [Uploading Videos to Engineers.SG](./guidebook/README.md#uploading-videos-to-engineerssg)
 - [Engaging Engineers.SG](./engage_esg/README.md):
 	- [For recording meetups](./engage_esg/README.md#for-recording-meetups)
 	- [For recording conferences](./engage_esg/README.md#for-recording-conferences)
