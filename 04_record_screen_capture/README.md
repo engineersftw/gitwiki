@@ -1,10 +1,11 @@
 # Intermediate - Record Screen Capture
 
-## Introduction
+## Option 1: QuickTime Screen Recording
 
 When the speaker is using a Mac, you can easily record their screen activities. This way, you get very sharp and high quality recording. This option is rather intrusive. So only do this if you meet the speaker earlier and make the arrangements before the start of his talk.
 
-## Steps
+### Steps
+
 1. Start QuickTime Player
 
 	![](images/01_start_quicktime_player.png)
@@ -31,8 +32,29 @@ When the speaker is using a Mac, you can easily record their screen activities. 
 
 8. ***Profit!***
 
-## Example Footages
+### Example Footages
 
 [![](http://img.youtube.com/vi/eiYIq0QoWI8/0.jpg)](http://www.youtube.com/watch?v=eiYIq0QoWI8)
 
 [![](http://img.youtube.com/vi/H3NC6xXPm9A/0.jpg)](http://www.youtube.com/watch?v=H3NC6xXPm9A)
+
+## Option 2: PC-free Screen Recording
+
+In order to maintain our non-intrusion principle, we have also devised a stand-alone screen recording setup.
+
+### Components
+
+- [ezcap289](https://www.aliexpress.com/item/32836902435.html) - standalone screen recording device with build-in microphone. Video recording files are saved to USB thumbdrive.
+
+	[![ezcap289](./images/ezcap289.jpg)](https://www.aliexpress.com/item/32836902435.html)
+
+- [ViewHD HDMI Splitter](https://u9ltd.myshopify.com/products/vhd-1x2mn3d)
+
+	![ViewHD 2 x 1 HDMI splitter](./images/viewhd_htmi_splitter.png)
+
+- USB thumbdrive (formatted to FAT16 or FAT32) - to save the video recording filess.
+- HDMI cables - for connecting from the presenter's laptop to the ezcap.
+
+### Schematic
+
+![Schematic for PC-Free Screen Capture](./images/single_device_screen_capture.png)
