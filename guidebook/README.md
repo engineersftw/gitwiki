@@ -47,7 +47,7 @@ The recording unit's suitcase should consist of the following items:
 	- This is so that presenter & organizers can check that their laptops are compatible with our setup as well as the projector's resolution.
 	- If its not realistic to keep the splitter on the equipment organizer, just remove it and position it near the speaker + video cable for the projector.
 
-4. 	Place the laptop (do not switch on yet) and connect the charger (start the power).
+4. Place the laptop (do not switch on yet) and connect the charger (start the power).
 5. Setup the tripod + webcam.
 6. Setup the equipment organizer.
 	- Connect all the USB cables (blue, green & brown dot) to the laptop.
@@ -98,9 +98,9 @@ Launch OBS Studio by double-clicking on the black logo that looks like a fan on 
 
 ### End of presentation:
 
-After the presentation (and perhaps the Q&A session), do remember to stop the recording.
-Retrieve the wireless mic from the speaker. You can also help to disconnect the HDMI cable 
-Remember to click on 'Start Recording" again before each speaker starts.
+- After the presentation (and perhaps the Q&A session), do remember to stop the recording.
+- Retrieve the wireless mic from the speaker. You can also help to disconnect the HDMI cable.
+- Remember to click on 'Start Recording" again before each speaker starts.
 
 
 ## Troubleshooting
@@ -157,7 +157,7 @@ After uploading, the video should appear on the website and YouTube Channel with
 
 If your recorded MP4 files are >= 1.5GB each, please upload the file to us via this Dropbox upload link: [http://bit.ly/esg-upload](http://bit.ly/esg-upload)
 
-And inform us through the Telegram chat or via email to admin@engineers.sg.Do give us some time to process and upload the video. We will inform you when the videos are available on our website and YouTube Channel.
+And inform us through the Telegram chat or via email to [admin@engineers.sg](mailto:admin@engineers.sg). Do give us some time to process and upload the video. We will inform you when the videos are available on our website and YouTube Channel.
 
 ### Option 3 - Manager access to YouTube Channel
 
