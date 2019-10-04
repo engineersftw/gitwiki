@@ -26,7 +26,7 @@ As at 2018, this is the standard gear found in our recording sets
 
 	For conference recording, we usually go with something better like a Sony Handycam.
 
-5. **[Focusrite Scarlett Solo](https://focusrite.com/usb-audio-interface/scarlett/scarlett-solo) (Autio Interface)**
+5. **[Focusrite Scarlett Solo](https://focusrite.com/usb-audio-interface/scarlett/scarlett-solo) (Audio Interface)**
 
 	We don't use the laptop's build in sound card because its really quite crappy and can be subjected to line level distortions. We like the Focusrite Scarlett Solo because it has knobs for real time control of the recording volume (gains control). This has an XLR and 1/4 inch line input which gives us more flexibility with the type of microphones we use (either a condenser mic or wireless lapel mic). It also gives us the option to interface with the venue's sound system if need be.
 
