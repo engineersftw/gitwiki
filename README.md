@@ -13,7 +13,6 @@
 	- [Troubleshooting](./guidebook/README.md#troubleshooting)
 	- [Uploading Videos to Engineers.SG](./guidebook/README.md#uploading-videos-to-engineerssg)
 - [Engaging Engineers.SG](./engage_esg/README.md)
-- [Getting your event listed in our events calendar](./engage_esg/README.md#getting-your-event-listed-in-our-events-calendar)
 
 ## Other resources
 
