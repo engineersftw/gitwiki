@@ -97,3 +97,36 @@ $ ./genthumb.sh <video_file> <time_stamp>
 ```bash
 $ ./copyts.sh ./<folder_name>
 ```
+
+## Running with Docker
+
+1. Build the Docker Image
+
+	```bash
+	docker build -t esg-tools .
+	```
+
+2. Run the Docker Container and mount your working folder into the container.
+
+	```bash
+	docker run -it --rm -v <path_to_working_folder>:/app/<folder_name> esg-tools
+	```
+
+	**Example:**
+
+	```
+	docker run -it --rm -v $PWD/videos:/app/videos esg-tools
+	docker run -it --rm -v %CD%/videos:/app/videos esg-tools
+	```
+
+	> To refer to the currect directory, use `$PWD` in Linux / Mac and use `%CD%` in Windows Command Prompt.
+
+3. You can now run the scripts in Docker container.
+
+	**Example:**
+
+	```bash
+	./cutfront.sh ./videos/presenter1.mp4 00:05:12 ./videos/presenter1-trimmed.mp4
+	```
+
+	*Remember to output the file to the mounted folder to see it in your host machine.* 
