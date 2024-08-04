@@ -1,4 +1,4 @@
-#!/bin/bin/env bash
+#!/usr/bin/env bash
 
 FILE=$1
 TIMECODE=$2

@@ -1,4 +1,4 @@
-#!/bin/bin/env bash
+#!/usr/bin/env bash
 
 # Ensure we fail fast if there is a problem.
 set -eo pipefail

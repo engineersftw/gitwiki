@@ -1,4 +1,4 @@
-#!/bin/bin/env bash
+#!/usr/bin/env bash
 
 SOURCE=$1
 echo "Looking inside $SOURCE now..."
