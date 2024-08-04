@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 check_if_dependency_exists() {
   command_line_program=$1

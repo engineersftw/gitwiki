@@ -1,7 +1,11 @@
-#!/usr/bin/env bash
+#!/bin/sh
 
-# Ensure we fail fast if there is a problem.
-set -eo pipefail
+check_if_dependency_exists() {
+  command_line_program=$1
+  command -v $command_line_program >/dev/null 2>&1 || { echo >&2 "[ERROR] Please install $command_line_program first (see README.md)"; exit 1; }
+}
+check_if_dependency_exists ffmpeg
+check_if_dependency_exists sox
 
 SOURCE=$1
 echo "Looking inside $SOURCE now..."
@@ -29,8 +33,10 @@ do
   sox "$working_filename-audio.wav" "$working_filename-temp.wav" compand 1,2 -80,-80,-55,-15,-10,-10,0,0 -7 -30 1 &&
   sox "$working_filename-temp.wav" "$working_filename-leveled.wav" --norm
 
-  ffmpeg -i "$working_filename-temp.mp4" -i "$working_filename-leveled.wav" -vcodec copy -acodec aac -strict experimental -ac 2 -ab 114k -map 0:0 -map 1:0 "$working_filename-norm.mp4"
+  ffmpeg -i "$working_filename-temp.mp4" -i "$working_filename-leveled.wav" -vcodec h264 -preset ultrafast -crf 18 -acodec aac -strict experimental -ac 2 -ab 114k -map 0:0 -map 1:0 "$working_filename-norm.mp4"
+  # ffmpeg -i "$working_filename-temp.mp4" -i "$working_filename-leveled.wav" -vcodec copy -acodec aac -strict experimental -ac 2 -ab 114k -map 0:0 -map 1:0 "$working_filename-norm.mp4"
   rm "$working_sourcefile" "$working_filename-temp.mp4" "$working_filename-audio.wav" "$working_filename-leveled.wav" "$working_filename-temp.wav"
 
   mv "$working_filename-norm.mp4" "$destination_folder"
+  rm -rf "$working_folder"
 done
