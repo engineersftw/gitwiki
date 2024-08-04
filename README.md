@@ -12,10 +12,7 @@
 	- [Things to note when start Recording](./guidebook/README.md#start-recording)
 	- [Troubleshooting](./guidebook/README.md#troubleshooting)
 	- [Uploading Videos to Engineers.SG](./guidebook/README.md#uploading-videos-to-engineerssg)
-- [Engaging Engineers.SG](./engage_esg/README.md):
-	- [For recording meetups](./engage_esg/README.md#for-recording-meetups)
-	- [For recording conferences](./engage_esg/README.md#for-recording-conferences)
-	- [Becoming a volunteer](./engage_esg/README.md#becoming-a-volunteer)
+- [Engaging Engineers.SG](./engage_esg/README.md)
 - [Getting your event listed in our events calendar](./engage_esg/README.md#getting-your-event-listed-in-our-events-calendar)
 
 ## Other resources
