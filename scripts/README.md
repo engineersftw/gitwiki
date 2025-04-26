@@ -130,3 +130,11 @@ $ ./copyts.sh ./<folder_name>
 	```
 
 	*Remember to output the file to the mounted folder to see it in your host machine.* 
+
+## YouTube Download
+
+Use [yt-dlp](https://github.com/yt-dlp/yt-dlp) to download video from YouTube URL.
+
+```
+yt-dlp -f "bv*[ext=mp4]+ba[ext=m4a]/b[ext=mp4] / bv*+ba/b" [URL]
+```
